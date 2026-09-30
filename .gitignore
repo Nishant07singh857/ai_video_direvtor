@@ -1,0 +1,75 @@
+# ==============================
+# 1. Environment Variables & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.local.example
+credentials.json
+token.json
+*.pem
+
+# ==============================
+# 2. Media, Uploads & Databases
+# ==============================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+media/
+backend/media/
+uploads/
+*.db
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# ==============================
+# 3. Python / FastAPI (Backend)
+# ==============================
+__pycache__/
+*.py[cod]
+*.class
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+.env_python/
+pip-log.txt
+*.log
+
+# ==============================
+# 4. Node.js / Next.js (Frontend)
+# ==============================
+node_modules/
+.next/
+out/
+build/
+dist/
+.turbo/
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==============================
+# 5. OS & IDE Specific
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# 6. AI Agent / Local Configs
+# ==============================
+.agents/
+.claude/

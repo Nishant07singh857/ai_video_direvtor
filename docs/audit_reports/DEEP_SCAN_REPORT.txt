@@ -1,0 +1,865 @@
+
+==================================================
+FILE: .\analyze.py
+==================================================
+- [LINE 25] Leftover print statement.
+- [LINE 27] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\analyze2.py
+==================================================
+- [LINE 18] Leftover print statement.
+- [LINE 20] Leftover print statement.
+- [LINE 22] Leftover print statement.
+- [LINE 24] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\analyze3.py
+==================================================
+- [LINE 31] Leftover print statement.
+- [LINE 33] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\audit_script.py
+==================================================
+- [LINE 41] Broad Exception catch (swallows errors).
+- [LINE 48] Leftover print statement.
+- [LINE 70] Leftover print statement.
+- [LINE 72] Leftover print statement.
+- [LINE 74] Leftover print statement.
+- [LINE 76] Leftover print statement.
+- [LINE 78] Leftover print statement.
+
+==================================================
+FILE: .\check_dups.py
+==================================================
+- [LINE 28] Leftover print statement.
+- [LINE 31] Leftover print statement.
+- [LINE 33] Leftover print statement.
+- [LINE 34] Leftover print statement.
+
+==================================================
+FILE: .\check_rels.py
+==================================================
+- [LINE 23] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\deep_scanner.py
+==================================================
+- [LINE 17] Hardcoded localhost/IP found.
+- [LINE 18] Hardcoded localhost/IP found.
+- [LINE 19] Possible hardcoded password.
+- [LINE 21] Leftover print statement.
+- [LINE 23] Broad Exception catch (swallows errors).
+- [LINE 33] Broad Exception catch (swallows errors).
+- [LINE 44] Hardcoded localhost/IP found.
+- [LINE 45] Hardcoded localhost/IP found.
+- [LINE 52] Broad Exception catch (swallows errors).
+- [LINE 56] Leftover print statement.
+- [LINE 82] Leftover print statement.
+- [LINE 83] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\filter.py
+==================================================
+- [LINE 6] Leftover print statement.
+
+==================================================
+FILE: .\find_fk.py
+==================================================
+- [LINE 26] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\fix_indexes.py
+==================================================
+- [LINE 71] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\fix_indexes2.py
+==================================================
+- [LINE 52] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\scan_code.py
+==================================================
+- [LINE 30] Leftover print statement.
+- [LINE 32] Leftover print statement.
+- [LINE 35] Leftover print statement.
+- [LINE 36] Leftover print statement.
+- [LINE 52] Leftover print statement.
+
+==================================================
+FILE: .\scan_code2.py
+==================================================
+- [LINE 30] Broad Exception catch (swallows errors).
+- [LINE 33] Leftover print statement.
+- [LINE 35] Leftover print statement.
+- [LINE 37] Leftover print statement.
+- [LINE 38] Leftover print statement.
+- [LINE 54] Broad Exception catch (swallows errors).
+- [LINE 57] Leftover print statement.
+
+==================================================
+FILE: .\script.py
+==================================================
+- Could not parse file: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+
+==================================================
+FILE: .\backend\add_debug.py
+==================================================
+- [LINE 8] Broad Exception catch (swallows errors).
+- [LINE 11] Broad Exception catch (swallows errors).
+- [LINE 12] Leftover print statement.
+- [LINE 20] Broad Exception catch (swallows errors).
+- [LINE 22] Broad Exception catch (swallows errors).
+- [LINE 23] Leftover print statement.
+- [LINE 29] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\add_debug2.py
+==================================================
+- [LINE 8] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\ast_scan.py
+==================================================
+- [LINE 17] Leftover print statement.
+- [LINE 56] Leftover print statement.
+- [LINE 69] Leftover print statement.
+
+==================================================
+FILE: .\backend\check.py
+==================================================
+- [LINE 9] Leftover print statement.
+- [LINE 11] Leftover print statement.
+
+==================================================
+FILE: .\backend\check_db.py
+==================================================
+- [LINE 10] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\check_path.py
+==================================================
+- [LINE 13] Leftover print statement.
+- [LINE 14] Leftover print statement.
+- [LINE 15] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\check_timelines.py
+==================================================
+- [LINE 10] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\check_t_json.py
+==================================================
+- [LINE 11] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\fix.py
+==================================================
+- [LINE 24] Leftover print statement.
+- [LINE 27] Leftover print statement.
+- [LINE 52] Leftover print statement.
+- [LINE 54] Leftover print statement.
+- [LINE 60] Leftover print statement.
+- [LINE 68] Broad Exception catch (swallows errors).
+- [LINE 73] Broad Exception catch (swallows errors).
+- [LINE 74] Leftover print statement.
+- [LINE 90] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\fix_assets.py
+==================================================
+- [LINE 10] Leftover print statement.
+
+==================================================
+FILE: .\backend\fix_awaits.py
+==================================================
+- [LINE 28] Leftover print statement.
+- [LINE 31] Leftover print statement.
+
+==================================================
+FILE: .\backend\fix_bom.py
+==================================================
+- [LINE 8] Leftover print statement.
+
+==================================================
+FILE: .\backend\fix_fallback.py
+==================================================
+- [LINE 6] Broad Exception catch (swallows errors).
+- [LINE 7] Leftover print statement.
+- [LINE 10] Leftover print statement.
+- [LINE 31] Broad Exception catch (swallows errors).
+- [LINE 37] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\fix_fallback_clean.py
+==================================================
+- [LINE 12] Leftover print statement.
+- [LINE 15] Leftover print statement.
+- [LINE 40] Leftover print statement.
+- [LINE 42] Leftover print statement.
+- [LINE 48] Leftover print statement.
+- [LINE 56] Broad Exception catch (swallows errors).
+- [LINE 61] Broad Exception catch (swallows errors).
+- [LINE 62] Leftover print statement.
+- [LINE 76] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\fix_fk.py
+==================================================
+- [LINE 17] Leftover print statement.
+
+==================================================
+FILE: .\backend\fix_index.py
+==================================================
+- [LINE 19] Leftover print statement.
+
+==================================================
+FILE: .\backend\fix_llm.py
+==================================================
+- [LINE 12] Leftover print statement.
+- [LINE 26] Leftover print statement.
+- [LINE 30] Leftover print statement.
+- [LINE 35] Leftover print statement.
+- [LINE 43] Broad Exception catch (swallows errors).
+- [LINE 48] Broad Exception catch (swallows errors).
+- [LINE 49] Leftover print statement.
+- [LINE 60] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\fix_media.py
+==================================================
+- [LINE 21] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\init_db.py
+==================================================
+- [LINE 8] Leftover print statement.
+
+==================================================
+FILE: .\backend\original_projects_db_code.py
+==================================================
+- [LINE 17] Broad Exception catch (swallows errors).
+- [LINE 80] Broad Exception catch (swallows errors).
+- [LINE 108] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\run_ai.py
+==================================================
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\scan2.py
+==================================================
+- [LINE 57] Leftover print statement.
+- [LINE 58] Leftover print statement.
+
+==================================================
+FILE: .\backend\test_ai.py
+==================================================
+- [LINE 18] Leftover print statement.
+- [LINE 21] Leftover print statement.
+- [LINE 24] Leftover print statement.
+- [LINE 25] Broad Exception catch (swallows errors).
+- [LINE 26] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\test_perf.py
+==================================================
+- [LINE 5] Hardcoded localhost/IP found.
+- [LINE 14] Broad Exception catch (swallows errors).
+- [LINE 18] Leftover print statement.
+- [LINE 34] Leftover print statement.
+- [LINE 35] Leftover print statement.
+- [LINE 36] Leftover print statement.
+- [LINE 37] Leftover print statement.
+
+==================================================
+FILE: .\backend\test_phase3_e2e.py
+==================================================
+- [LINE 48] Leftover print statement.
+- [LINE 58] Leftover print statement.
+- [LINE 59] Leftover print statement.
+- [LINE 60] Leftover print statement.
+- [LINE 63] Leftover print statement.
+- [LINE 66] Leftover print statement.
+- [LINE 69] Leftover print statement.
+- [LINE 73] Possible hardcoded password.
+- [LINE 114] Leftover print statement.
+- [LINE 117] Leftover print statement.
+- [LINE 126] Leftover print statement.
+- [LINE 132] Leftover print statement.
+- [LINE 137] Leftover print statement.
+- [LINE 139] Leftover print statement.
+- [LINE 142] Leftover print statement.
+- [LINE 144] Leftover print statement.
+- [LINE 147] Leftover print statement.
+- [LINE 150] Leftover print statement.
+- [LINE 152] Leftover print statement.
+- [LINE 154] Leftover print statement.
+- [LINE 156] Leftover print statement.
+- [LINE 158] Leftover print statement.
+- [LINE 160] Leftover print statement.
+- [LINE 162] Leftover print statement.
+- [LINE 164] Leftover print statement.
+- [LINE 166] Leftover print statement.
+- [LINE 167] Leftover print statement.
+- [LINE 170] Leftover print statement.
+- [LINE 176] Leftover print statement.
+- [LINE 181] Leftover print statement.
+- [LINE 189] Leftover print statement.
+- [LINE 193] Leftover print statement.
+- [LINE 197] Leftover print statement.
+- [LINE 199] Leftover print statement.
+- [LINE 201] Leftover print statement.
+- [LINE 202] Leftover print statement.
+- [LINE 206] Broad Exception catch (swallows errors).
+- [LINE 207] Leftover print statement.
+- [LINE 208] Leftover print statement.
+- [LINE 209] Leftover print statement.
+- [LINE 210] Leftover print statement.
+- [LINE 211] Leftover print statement.
+- [LINE 219] Leftover print statement.
+
+==================================================
+FILE: .\backend\test_phase4_e2e.py
+==================================================
+- [LINE 52] Leftover print statement.
+- [LINE 62] Leftover print statement.
+- [LINE 63] Leftover print statement.
+- [LINE 64] Leftover print statement.
+- [LINE 67] Leftover print statement.
+- [LINE 70] Leftover print statement.
+- [LINE 73] Leftover print statement.
+- [LINE 77] Possible hardcoded password.
+- [LINE 120] Leftover print statement.
+- [LINE 123] Leftover print statement.
+- [LINE 133] Leftover print statement.
+- [LINE 137] Leftover print statement.
+- [LINE 138] Leftover print statement.
+- [LINE 139] Leftover print statement.
+- [LINE 140] Leftover print statement.
+- [LINE 144] Leftover print statement.
+- [LINE 147] Leftover print statement.
+- [LINE 155] Leftover print statement.
+- [LINE 158] Leftover print statement.
+- [LINE 160] Leftover print statement.
+- [LINE 165] Leftover print statement.
+- [LINE 168] Leftover print statement.
+- [LINE 169] Leftover print statement.
+- [LINE 171] Leftover print statement.
+- [LINE 175] Leftover print statement.
+- [LINE 178] Leftover print statement.
+- [LINE 182] Leftover print statement.
+- [LINE 183] Leftover print statement.
+- [LINE 186] Leftover print statement.
+- [LINE 190] Leftover print statement.
+- [LINE 191] Leftover print statement.
+- [LINE 192] Leftover print statement.
+- [LINE 193] Leftover print statement.
+- [LINE 201] Leftover print statement.
+- [LINE 202] Leftover print statement.
+- [LINE 203] Leftover print statement.
+- [LINE 218] Leftover print statement.
+- [LINE 221] Leftover print statement.
+- [LINE 223] Leftover print statement.
+- [LINE 224] Leftover print statement.
+- [LINE 225] Leftover print statement.
+- [LINE 228] Leftover print statement.
+- [LINE 230] Leftover print statement.
+- [LINE 232] Leftover print statement.
+- [LINE 233] Leftover print statement.
+- [LINE 236] Leftover print statement.
+- [LINE 247] Leftover print statement.
+- [LINE 252] Leftover print statement.
+- [LINE 255] Leftover print statement.
+- [LINE 256] Leftover print statement.
+- [LINE 257] Leftover print statement.
+- [LINE 258] Leftover print statement.
+- [LINE 259] Leftover print statement.
+- [LINE 260] Leftover print statement.
+- [LINE 261] Leftover print statement.
+- [LINE 262] Leftover print statement.
+- [LINE 263] Leftover print statement.
+- [LINE 264] Leftover print statement.
+- [LINE 265] Leftover print statement.
+- [LINE 269] Broad Exception catch (swallows errors).
+- [LINE 270] Leftover print statement.
+- [LINE 271] Leftover print statement.
+- [LINE 272] Leftover print statement.
+- [LINE 273] Leftover print statement.
+- [LINE 274] Leftover print statement.
+- [LINE 282] Leftover print statement.
+
+==================================================
+FILE: .\backend\undo_awaits.py
+==================================================
+- [LINE 20] Leftover print statement.
+
+==================================================
+FILE: .\backend\update_page.py
+==================================================
+- [LINE 146] Leftover print statement.
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\alembic\versions\8feb8cc1f2a4_initial_migration.py
+==================================================
+- [LINE 28] Possible hardcoded password.
+
+==================================================
+FILE: .\backend\app\main.py
+==================================================
+- [LINE 33] Hardcoded localhost/IP found.
+
+==================================================
+FILE: .\backend\app\api\ai_critic.py
+==================================================
+- [LINE 17] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\ai_director.py
+==================================================
+- [LINE 34] Broad Exception catch (swallows errors).
+- [LINE 49] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\ai_memory.py
+==================================================
+- [LINE 18] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\analysis.py
+==================================================
+- [WARNING] File is too long (471 lines).
+- [LINE 17] Possible hardcoded password.
+
+==================================================
+FILE: .\backend\app\api\dataset_builder.py
+==================================================
+- [LINE 16] Broad Exception catch (swallows errors).
+- [LINE 25] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\editing.py
+==================================================
+- [LINE 168] Broad Exception catch (swallows errors).
+- [LINE 244] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\health.py
+==================================================
+- [LINE 27] Broad Exception catch (swallows errors).
+- [LINE 37] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\media.py
+==================================================
+- [WARNING] File is too long (316 lines).
+- [LINE 19] Possible hardcoded password.
+- [LINE 197] Broad Exception catch (swallows errors).
+- [LINE 211] Broad Exception catch (swallows errors).
+- [LINE 212] Leftover print statement.
+
+==================================================
+FILE: .\backend\app\api\projects.py
+==================================================
+- [LINE 15] Possible hardcoded password.
+- [LINE 63] Broad Exception catch (swallows errors).
+- [LINE 78] Possible hardcoded password.
+- [LINE 109] Broad Exception catch (swallows errors).
+- [LINE 195] Broad Exception catch (swallows errors).
+- [LINE 223] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\rendering.py
+==================================================
+- [WARNING] File is too long (512 lines).
+- [LINE 25] Possible hardcoded password.
+- [LINE 145] Broad Exception catch (swallows errors).
+- [LINE 193] Broad Exception catch (swallows errors).
+- [LINE 400] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\search.py
+==================================================
+- [LINE 81] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\api\styles.py
+==================================================
+- [LINE 28] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\core\config.py
+==================================================
+- [LINE 21] Hardcoded localhost/IP found.
+- [LINE 22] Hardcoded localhost/IP found.
+- [LINE 25] Hardcoded localhost/IP found.
+- [LINE 33] Hardcoded localhost/IP found.
+
+==================================================
+FILE: .\backend\app\core\logger.py
+==================================================
+- [LINE 12] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\core\security.py
+==================================================
+- [LINE 12] Possible hardcoded password.
+- [LINE 16] Possible hardcoded password.
+
+==================================================
+FILE: .\backend\app\services\ai_critic.py
+==================================================
+- [LINE 31] Hardcoded localhost/IP found.
+- [LINE 65] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\services\ai_director.py
+==================================================
+- [WARNING] File is too long (390 lines).
+- [LINE 175] Broad Exception catch (swallows errors).
+- [LINE 193] Broad Exception catch (swallows errors).
+- [LINE 215] Broad Exception catch (swallows errors).
+- [LINE 243] Broad Exception catch (swallows errors).
+- [LINE 269] Broad Exception catch (swallows errors).
+- [LINE 293] Broad Exception catch (swallows errors).
+- [LINE 319] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\services\analysis_job.py
+==================================================
+- [LINE 157] Broad Exception catch (swallows errors).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\evaluation.py
+==================================================
+- Could not parse file: expected an indented block after class definition on line 1 (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\export_service.py
+==================================================
+- [WARNING] File is too long (326 lines).
+- [LINE 272] Broad Exception catch (swallows errors).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\knowledge_graph.py
+==================================================
+- [WARNING] File is too long (347 lines).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\media_analysis.py
+==================================================
+- [WARNING] File is too long (528 lines).
+- [LINE 127] Broad Exception catch (swallows errors).
+- [LINE 188] Broad Exception catch (swallows errors).
+- [LINE 245] Broad Exception catch (swallows errors).
+- [LINE 281] Broad Exception catch (swallows errors).
+- [LINE 331] Broad Exception catch (swallows errors).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\media_processing.py
+==================================================
+- [LINE 83] Broad Exception catch (swallows errors).
+- [LINE 97] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\services\nlp_editor.py
+==================================================
+- [LINE 125] Broad Exception catch (swallows errors).
+- [LINE 179] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\services\preview_service.py
+==================================================
+- [LINE 221] Broad Exception catch (swallows errors).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\render_job_service.py
+==================================================
+- [WARNING] File is too long (338 lines).
+- [LINE 274] Broad Exception catch (swallows errors).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\rlhf_learning_loop.py
+==================================================
+- [LINE 31] Broad Exception catch (swallows errors).
+- [LINE 50] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\services\safety.py
+==================================================
+- Could not parse file: expected an indented block after class definition on line 7 (<unknown>, line 7)
+
+==================================================
+FILE: .\backend\app\services\sequence_planner.py
+==================================================
+- [WARNING] File is too long (389 lines).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\shot_ranker.py
+==================================================
+- [WARNING] File is too long (334 lines).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\story_generator.py
+==================================================
+- [WARNING] File is too long (490 lines).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\story_ranker.py
+==================================================
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\swarm_orchestrator.py
+==================================================
+- [LINE 24] Leftover print statement.
+- [LINE 27] Leftover print statement.
+- [LINE 52] Leftover print statement.
+- [LINE 54] Leftover print statement.
+- [LINE 60] Leftover print statement.
+- [LINE 68] Broad Exception catch (swallows errors).
+- [LINE 73] Broad Exception catch (swallows errors).
+- [LINE 74] Leftover print statement.
+- [LINE 101] Broad Exception catch (swallows errors).
+- [LINE 120] Broad Exception catch (swallows errors).
+- [LINE 132] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\app\services\template_engine.py
+==================================================
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\services\video_cloner.py
+==================================================
+- [LINE 54] Broad Exception catch (swallows errors).
+- [LINE 88] Broad Exception catch (swallows errors).
+- [LINE 118] Broad Exception catch (swallows errors).
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\backend\app\workers\render_tasks.py
+==================================================
+- [LINE 67] Broad Exception catch (swallows errors).
+- [LINE 134] Broad Exception catch (swallows errors).
+- [LINE 194] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\backend\tests\conftest.py
+==================================================
+- [LINE 42] Broad Exception catch (swallows errors).
+- [LINE 67] Possible hardcoded password.
+- [LINE 79] Possible hardcoded password.
+
+==================================================
+FILE: .\backend\tests\test_api.py
+==================================================
+- [LINE 39] Possible hardcoded password.
+- [LINE 50] Possible hardcoded password.
+- [LINE 58] Possible hardcoded password.
+- [LINE 68] Possible hardcoded password.
+- [LINE 204] Possible hardcoded password.
+
+==================================================
+FILE: .\frontend\src\app\loading.tsx
+==================================================
+- [LINE 2] Use of 'any' type in TypeScript.
+
+==================================================
+FILE: .\frontend\src\app\login\page.tsx
+==================================================
+- [LINE 29] Direct localStorage access (may break SSR).
+- [LINE 30] Direct localStorage access (may break SSR).
+- [LINE 40] Direct localStorage access (may break SSR).
+
+==================================================
+FILE: .\frontend\src\app\projects\[id]\page.tsx
+==================================================
+- [LINE 262] Hardcoded localhost URL (use ENV vars).
+- [LINE 333] Leftover console.log statement.
+- [LINE 348] Leftover console.log statement.
+
+==================================================
+FILE: .\frontend\src\components\project\HistoryPanel.tsx
+==================================================
+- [LINE 17] Leftover console.log statement.
+
+==================================================
+FILE: .\frontend\src\components\rendering\RenderJobList.tsx
+==================================================
+- [LINE 27] Use of 'any' type in TypeScript.
+
+==================================================
+FILE: .\frontend\src\components\rendering\RenderPanel.tsx
+==================================================
+- [LINE 52] Leftover console.log statement.
+- [LINE 71] Leftover console.log statement.
+
+==================================================
+FILE: .\frontend\src\components\templates\TemplateLibrary.tsx
+==================================================
+- [LINE 29] Leftover console.log statement.
+
+==================================================
+FILE: .\frontend\src\lib\api.ts
+==================================================
+- [LINE 3] Hardcoded localhost URL (use ENV vars).
+- [LINE 14] Direct localStorage access (may break SSR).
+- [LINE 37] Direct localStorage access (may break SSR).
+
+==================================================
+FILE: .\frontend\src\lib\store.ts
+==================================================
+- [LINE 19] Direct localStorage access (may break SSR).
+- [LINE 25] Direct localStorage access (may break SSR).
+
+==================================================
+FILE: .\llm_training\finetune_llama3.py
+==================================================
+- [LINE 20] Leftover print statement.
+- [LINE 33] Leftover print statement.
+- [LINE 46] Leftover print statement.
+- [LINE 73] Leftover print statement.
+- [LINE 101] Leftover print statement.
+- [LINE 105] Leftover print statement.
+- [LINE 107] Leftover print statement.
+- Could not parse file: unexpected character after line continuation character (<unknown>, line 48)
+
+==================================================
+FILE: .\training_data\generate_god_mode_dataset.py
+==================================================
+- [LINE 76] Leftover print statement.
+- [LINE 84] Leftover print statement.
+
+==================================================
+FILE: .\training_data\generate_massive_dataset.py
+==================================================
+- [LINE 70] Leftover print statement.
+- [LINE 78] Leftover print statement.
+
+==================================================
+FILE: .\training_data\generate_missing_dataset.py
+==================================================
+- [LINE 34] Leftover print statement.
+- [LINE 41] Leftover print statement.
+
+==================================================
+FILE: .\training_data\generate_tool_knowledge.py
+==================================================
+- [LINE 52] Leftover print statement.
+- [LINE 60] Leftover print statement.
+
+==================================================
+FILE: .\training_data\psychological_editing_miner.py
+==================================================
+- [LINE 77] Leftover print statement.
+- [LINE 83] Leftover print statement.
+
+==================================================
+FILE: .\training_data\real_tool_knowledge_miner.py
+==================================================
+- [LINE 63] Leftover print statement.
+- [LINE 82] Leftover print statement.
+- [LINE 84] Leftover print statement.
+
+==================================================
+FILE: .\training_data\scrub_competitors.py
+==================================================
+- [LINE 18] Leftover print statement.
+- [LINE 26] Leftover print statement.
+- [LINE 30] Leftover print statement.
+- [LINE 31] Leftover print statement.
+- [LINE 32] Leftover print statement.
+
+==================================================
+FILE: .\training_data\template_trend_miner.py
+==================================================
+- [LINE 64] Leftover print statement.
+- [LINE 65] Leftover print statement.
+- [LINE 74] Leftover print statement.
+- [LINE 75] Leftover print statement.
+
+==================================================
+FILE: .\training_data\youtube_real_data_miner.py
+==================================================
+- [LINE 61] Leftover print statement.
+- [LINE 62] Leftover print statement.
+- [LINE 71] Leftover print statement.
+- [LINE 72] Leftover print statement.
+
+==================================================
+FILE: .\video_engine\audio\analyzer.py
+==================================================
+- [LINE 129] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\video_engine\audio\speech.py
+==================================================
+- [WARNING] File is too long (382 lines).
+- [LINE 181] Broad Exception catch (swallows errors).
+- [LINE 242] Broad Exception catch (swallows errors).
+- [LINE 334] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\video_engine\ingestion\processor.py
+==================================================
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\video_engine\rendering\ffmpeg_renderer.py
+==================================================
+- [WARNING] File is too long (411 lines).
+- [LINE 72] Broad Exception catch (swallows errors).
+- [LINE 178] Leftover print statement.
+- [LINE 308] Broad Exception catch (swallows errors).
+- [LINE 364] Broad Exception catch (swallows errors).
+- [LINE 399] Broad Exception catch (swallows errors).
+
+==================================================
+FILE: .\video_engine\rendering\timeline_to_ffmpeg.py
+==================================================
+- [WARNING] File is too long (675 lines).
+
+==================================================
+FILE: .\video_engine\shots\detector.py
+==================================================
+- Could not parse file: invalid non-printable character U+FEFF (<unknown>, line 1)
+
+==================================================
+FILE: .\video_engine\shots\keyframe_extractor.py
+==================================================
+- [LINE 71] Broad Exception catch (swallows errors).

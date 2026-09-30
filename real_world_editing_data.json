@@ -1,0 +1,44 @@
+{
+  "creators": {
+    "Ali Abdaal": {
+      "pacing": "Moderate",
+      "average_shot_length_seconds": [2, 5],
+      "techniques_used": ["J-cuts", "Digital punch-ins", "Silence gap removal"],
+      "aspect_ratio_short_form": "9:16",
+      "framing": "Medium shot, centered on speaker"
+    },
+    "Hayden Hillier-Smith": {
+      "pacing_philosophy": "Storytelling over shortcuts; pace for breath and emotional journey.",
+      "tension_building": "Slow cuts for wonder; fast cuts for payoffs.",
+      "macro_level": "Perspective Editing"
+    },
+    "Finzar": {
+      "techniques_used": ["J-cuts", "L-cuts"],
+      "nle": "Adobe Premiere Pro",
+      "focus": "Smooth transitions and maintaining continuity"
+    }
+  },
+  "industry_standards": {
+    "j_cut_l_cut_overlap_frames_24fps": {
+      "subtle": 4,
+      "standard_dialogue_min": 12,
+      "standard_dialogue_max": 36,
+      "atmospheric_min": 24,
+      "atmospheric_max": 48
+    },
+    "average_shot_length_seconds": {
+      "modern_hollywood": 2.5,
+      "action_sci_fi_min": 2,
+      "action_sci_fi_max": 4,
+      "horror_min": 15,
+      "1930s_cinema": 12,
+      "animation_average": 15
+    },
+    "average_shot_length_frames_24fps": {
+      "modern_hollywood": 60,
+      "action_sci_fi_min": 48,
+      "action_sci_fi_max": 96,
+      "1930s_cinema": 288
+    }
+  }
+}
