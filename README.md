@@ -66,27 +66,28 @@ ai-video-director/
 cd backend
 
 # Create virtual environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+python -m venv venv
+# On Windows: .\venv\Scripts\activate
+# On Mac/Linux: source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Set up PostgreSQL database
-# 1. Create database 'ai_video_director'
-# 2. Create user 'postgres' with password 'postgres' (or update .env)
-
-# Run migrations
-alembic upgrade head
+# Set up Environment
+copy .env.example .env (or cp .env.example .env)
+# The default .env is configured to use a local SQLite database (ai_video_director.db)
 
 # Start development server
-uvicorn app.main:app --reload --port 8000
+python -m uvicorn app.main:app --reload
 ```
 
 ### Frontend
 
 ```bash
 cd frontend
+
+# Set up Environment
+copy .env.example .env.local (or cp .env.example .env.local)
 
 # Install dependencies
 npm install
